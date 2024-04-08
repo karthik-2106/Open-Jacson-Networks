@@ -21,10 +21,9 @@ Visual components and Python
 ![image](https://github.com/karthik-2106/Open-Jacson-Networks/assets/150319557/81056702-f83b-47f1-93ca-896fa50dd7a5)
 
 ## Program
-```
 ## Developed by: KARTHIKEYAN M
 ## Register no: 212223110020
-
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
